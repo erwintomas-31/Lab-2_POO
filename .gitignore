@@ -1,0 +1,9 @@
+# Archivos de configuración local de Visual Studio Code
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de depuración y logs
+*.log
